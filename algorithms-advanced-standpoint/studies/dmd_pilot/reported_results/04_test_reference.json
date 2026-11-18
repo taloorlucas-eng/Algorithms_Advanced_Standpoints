@@ -1,0 +1,10 @@
+{
+  "reference": 0.050454921422663356,
+  "n_real_smiles": 1209,
+  "n_real_smiles_glasses": 61,
+  "reader_B_given_A": 0.03706896551724138,
+  "reader_bacc": [
+    0.8963972973479758,
+    0.9021136020083542
+  ]
+}

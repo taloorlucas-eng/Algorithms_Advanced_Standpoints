@@ -1,0 +1,19 @@
+Audit execution: 2026-11-18
+
+          policy        u0  analytical_cost  mc_mean  mc_standard_error
+      Separation -0.052578         4.975032 4.985079           0.015724
+Negative minimum -0.248256         4.521818 4.530267           0.013684
+Positive minimum  0.143100         4.521818 4.530872           0.013891
+Analytical gap: 0.453214; paired MC: 0.454812 +/- 0.002602 (one SE)
+Results: /workspace/scratch/aaaaf48cce9d/portfolio_review/delivery/algorithms-advanced-standpoint/studies/separation_gap/results
+
+test_analytical_gap_matches_paired_monte_carlo (test_numerics.SeparationChecks.test_analytical_gap_matches_paired_monte_carlo) ... ok
+test_root_objectives_match_dense_grid_for_all_offsets (test_numerics.SeparationChecks.test_root_objectives_match_dense_grid_for_all_offsets) ... ok
+test_symmetric_solution_matches_polynomial_roots (test_numerics.SeparationChecks.test_symmetric_solution_matches_polynomial_roots) ... ok
+test_analytic_teacher_score_matches_log_density_gradient (test_numerics.TeacherChecks.test_analytic_teacher_score_matches_log_density_gradient) ... ok
+test_manual_mlp_backprop_matches_finite_differences (test_numerics.TeacherChecks.test_manual_mlp_backprop_matches_finite_differences) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.682s
+
+OK

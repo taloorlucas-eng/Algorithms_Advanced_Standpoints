@@ -1,0 +1,26 @@
+{
+  "train": {
+    "smile0_glasses0": 7747,
+    "smile0_glasses1": 618,
+    "smile1_glasses0": 7223,
+    "smile1_glasses1": 412
+  },
+  "cal": {
+    "smile0_glasses0": 1105,
+    "smile0_glasses1": 115,
+    "smile1_glasses0": 1114,
+    "smile1_glasses1": 66
+  },
+  "val": {
+    "smile0_glasses0": 1179,
+    "smile0_glasses1": 90,
+    "smile1_glasses0": 1068,
+    "smile1_glasses1": 63
+  },
+  "test": {
+    "smile0_glasses0": 1103,
+    "smile0_glasses1": 88,
+    "smile1_glasses0": 1148,
+    "smile1_glasses1": 61
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "seed": 0,
+  "samples": 200000,
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "model_parameters": {
+    "C0": 0.12645,
+    "C1": 2.4050000000000002,
+    "Znoise": 0.09,
+    "A": 0.9,
+    "B": 1.0,
+    "Pnoise": 0.01,
+    "Q": 1.0,
+    "R": 1.0,
+    "QT": 1.0,
+    "mu0": 0.1,
+    "Sigma0": 2.0
+  },
+  "C0": 0.12645,
+  "C1": 2.4050000000000002,
+  "analytic_minima": [
+    -0.24825626381484173,
+    0.14310033865891658
+  ],
+  "numerical_minima": [
+    -0.24825626381484162,
+    0.14310033865891664
+  ],
+  "analytical_gap": 0.45321409295346804,
+  "paired_mc_gap": 0.4548119942701507,
+  "paired_mc_se": 0.002602175570554192,
+  "elapsed_seconds": 0.35029687199948967,
+  "scope": "Numerical consistency check for the supplied scalar setting; not a novel theorem."
+}

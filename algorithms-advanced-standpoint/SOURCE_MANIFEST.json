@@ -1,0 +1,140 @@
+[
+  {
+    "source": "Advanced_LQR_Analysis/Notebook/Exact_performance_gap_of_Seperation_Principle.ipynb",
+    "destination": "studies/separation_gap/original_notebook.ipynb",
+    "sha256": "cb27073f11f06e861e60bc89b74457d1d886fdeab299394fd7b9c73b3a513dcc",
+    "change": "copied unchanged"
+  },
+  {
+    "source": "Advanced_LQR_Analysis/Notebook/Bilinear_LQR_BS_MPC.ipynb",
+    "destination": "studies/belief_mpc/original_notebook.ipynb",
+    "sha256": "c0b6c21c2da78df1e046770e151ed8c6323919a2c480d2e6d6359642c8a1c0d2",
+    "change": "copied unchanged"
+  },
+  {
+    "source": "Research_Chenye/Ongoing Research/Distribution_Match_Distillation/My_Idea/RealFaceLab/01_prepare.py",
+    "destination": "studies/dmd_pilot/01_prepare.py",
+    "sha256": "618f8ee272cafea8df7623d0f30e245bfb8a2edc813f4f4914f1f90c58897235",
+    "change": "copied unchanged"
+  },
+  {
+    "source": "Research_Chenye/Ongoing Research/Distribution_Match_Distillation/My_Idea/RealFaceLab/02_learn.py",
+    "destination": "studies/dmd_pilot/02_learn.py",
+    "sha256": "44ad6e62271ee3bec1a0dc1f41e6a51a57a68c49b7ec54a959e74db0806eb7d5",
+    "change": "copied unchanged"
+  },
+  {
+    "source": "Research_Chenye/Ongoing Research/Distribution_Match_Distillation/My_Idea/RealFaceLab/03_compare.py",
+    "destination": "studies/dmd_pilot/03_compare.py",
+    "sha256": "cce79dd1fb2f359c8b4cf4fb4b7a05f0957e088a2f1faa455ab85f9482313eb8",
+    "change": "copied unchanged"
+  },
+  {
+    "source": "Research_Chenye/Ongoing Research/Distribution_Match_Distillation/My_Idea/RealFaceLab/04_confirm.py",
+    "destination": "studies/dmd_pilot/04_confirm.py",
+    "sha256": "f4b4e7c8ee4220193908baff4b625c8fcc613c8aa7eef41829a57797ae85f5ed",
+    "change": "copied unchanged"
+  },
+  {
+    "source": "Research_Chenye/Ongoing Research/Distribution_Match_Distillation/My_Idea/RealFaceLab/05_review.py",
+    "destination": "studies/dmd_pilot/05_review.py",
+    "sha256": "121f86857617c2351645a08c1cadd35dca8453022da5a7b5eedd67a970c10999",
+    "change": "copied unchanged"
+  },
+  {
+    "source": "Research_Chenye/Ongoing Research/Distribution_Match_Distillation/My_Idea/RealFaceLab/06_diversity.py",
+    "destination": "studies/dmd_pilot/06_diversity.py",
+    "sha256": "329fb4d062ea1d6245cfeec57ef7ea47dcba9b6e1ebfbabcf29a9f543a576fd9",
+    "change": "copied unchanged"
+  },
+  {
+    "source": "Research_Chenye/Ongoing Research/Distribution_Match_Distillation/My_Idea/RealFaceLab/common.py",
+    "destination": "studies/dmd_pilot/common.py",
+    "sha256": "174e7e2ae5fde567d48f8b9e98b993ab1cd1ebee167eeb9340d589c90c49c2e7",
+    "change": "copied unchanged"
+  },
+  {
+    "source": "Research_Chenye/Ongoing Research/Distribution_Match_Distillation/My_Idea/RealFaceLab/dmd_core.py",
+    "destination": "studies/dmd_pilot/dmd_core.py",
+    "sha256": "64d6ad8598237a2d7a26f9f203a710fabd24b0617dfe2fdf8aca6593642cde27",
+    "change": "copied unchanged"
+  },
+  {
+    "source": "Research_Chenye/Ongoing Research/Distribution_Match_Distillation/My_Idea/RealFaceLab/face_space.py",
+    "destination": "studies/dmd_pilot/face_space.py",
+    "sha256": "0b2278145499f536d0f67a629bb2f6e74804543fe35f3f3535f6b4b574965c99",
+    "change": "copied unchanged"
+  },
+  {
+    "source": "Research_Chenye/Ongoing Research/Distribution_Match_Distillation/My_Idea/RealFaceLab/study.py",
+    "destination": "studies/dmd_pilot/study.py",
+    "sha256": "491d1e093796a4b3f1baecde7fcf6c40b3c5dbfb407b6c3c9c71bf4202dc1d0e",
+    "change": "copied unchanged"
+  },
+  {
+    "source": "Research_Chenye/Ongoing Research/Distribution_Match_Distillation/My_Idea/RealFaceLab/teacher.py",
+    "destination": "studies/dmd_pilot/teacher.py",
+    "sha256": "4f56161ba7d94f16a135d701223d93d0ef4086b7e01f0ef7e785bee1c3604b46",
+    "change": "copied unchanged"
+  },
+  {
+    "source": "Research_Chenye/Ongoing Research/Distribution_Match_Distillation/My_Idea/RealFaceLab/requirements.txt",
+    "destination": "studies/dmd_pilot/requirements.txt",
+    "sha256": "4d1ccbe8c38ff59adc23172e7eab245cd4a376505477f27d35b857675f049f24",
+    "change": "copied unchanged"
+  },
+  {
+    "source": "Research_Chenye/Ongoing Research/Distribution_Match_Distillation/My_Idea/RealFaceLab/RESULTS.md",
+    "destination": "studies/dmd_pilot/RESULTS_original_zh.md",
+    "sha256": "6aecf4412f96dcdcb81541495280dfcf4572c415fcf3f8bda040e3f346d5b93e",
+    "change": "copied unchanged"
+  },
+  {
+    "source": "Research_Chenye/Ongoing Research/Distribution_Match_Distillation/My_Idea/RealFaceLab/example_results/01_counts.json",
+    "destination": "studies/dmd_pilot/reported_results/01_counts.json",
+    "sha256": "213f185eced7765c1b069741abda0dc21e92acba51e4f9d2b41b5ccc0605a6a4",
+    "change": "copied unchanged"
+  },
+  {
+    "source": "Research_Chenye/Ongoing Research/Distribution_Match_Distillation/My_Idea/RealFaceLab/example_results/02_reader.json",
+    "destination": "studies/dmd_pilot/reported_results/02_reader.json",
+    "sha256": "b38e7c6bdac6d491557d9e7953de957fc55d0f864c507b60abfe86c3730192b6",
+    "change": "copied unchanged"
+  },
+  {
+    "source": "Research_Chenye/Ongoing Research/Distribution_Match_Distillation/My_Idea/RealFaceLab/example_results/03_validation.csv",
+    "destination": "studies/dmd_pilot/reported_results/03_validation.csv",
+    "sha256": "58f310becf973ba3c680a4023fee15014c98a23605b482e5b1c8392552890ffb",
+    "change": "copied unchanged"
+  },
+  {
+    "source": "Research_Chenye/Ongoing Research/Distribution_Match_Distillation/My_Idea/RealFaceLab/example_results/03_locked_choices.json",
+    "destination": "studies/dmd_pilot/reported_results/03_locked_choices.json",
+    "sha256": "a8aba4b8cd3b72b0e4831674de5ab135b769b53a194e7e1ffb790c71db77bff4",
+    "change": "copied unchanged"
+  },
+  {
+    "source": "Research_Chenye/Ongoing Research/Distribution_Match_Distillation/My_Idea/RealFaceLab/example_results/04_test.csv",
+    "destination": "studies/dmd_pilot/reported_results/04_test.csv",
+    "sha256": "4d9a4d5d76e4a517438c679a2081b575c97ffd214ae07bef3a92744884f858c8",
+    "change": "copied unchanged"
+  },
+  {
+    "source": "Research_Chenye/Ongoing Research/Distribution_Match_Distillation/My_Idea/RealFaceLab/example_results/04_summary.csv",
+    "destination": "studies/dmd_pilot/reported_results/04_summary.csv",
+    "sha256": "16022cc6ba633bb8d0c1056b2f159079cb98a93c1c2e74c41972160e54aded83",
+    "change": "copied unchanged"
+  },
+  {
+    "source": "Research_Chenye/Ongoing Research/Distribution_Match_Distillation/My_Idea/RealFaceLab/example_results/04_test_reference.json",
+    "destination": "studies/dmd_pilot/reported_results/04_test_reference.json",
+    "sha256": "6165e6123f1c72ed08873bb3b129805bebb190afc63c61cfd5a5eceb65a46a71",
+    "change": "copied unchanged"
+  },
+  {
+    "source": "Research_Chenye/Ongoing Research/Distribution_Match_Distillation/My_Idea/RealFaceLab/example_results/06_diversity.csv",
+    "destination": "studies/dmd_pilot/reported_results/06_diversity.csv",
+    "sha256": "30eb224dafeb1967163c22e0bb63c9a30270684782e97369274f3c1710c177be",
+    "change": "copied unchanged"
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "1.0": {
+    "fingerprint": "0b51309fa5e5b6cd",
+    "selected": null,
+    "reference": 0.05570291777188329,
+    "min_hit": 0.8,
+    "max_nn": 3.760018450260162,
+    "eligible": [
+      "DMD",
+      "cut1",
+      "cut2",
+      "cut3",
+      "cut12",
+      "cut13",
+      "cut23",
+      "cut123"
+    ],
+    "reader_pass": false
+  },
+  "2.0": {
+    "fingerprint": "0b51309fa5e5b6cd",
+    "selected": null,
+    "reference": 0.05570291777188329,
+    "min_hit": 0.8,
+    "max_nn": 3.7166900389671325,
+    "eligible": [
+      "DMD",
+      "cut1",
+      "cut2",
+      "cut12",
+      "cut123"
+    ],
+    "reader_pass": false
+  }
+}
